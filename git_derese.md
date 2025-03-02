@@ -136,4 +136,4 @@ o commitden devam eder.
 
 'git diff'
 
-durumlar arasındaki farkları gösterir
+durumlar arasındaki farkları gösterir          
